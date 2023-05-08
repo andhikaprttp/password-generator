@@ -1,0 +1,46 @@
+body {
+  background-color: #000;
+  color: #0f0;
+  font-family: monospace;
+}
+
+h1 {
+  text-align: center;
+  font-size: 3rem;
+}
+
+label, input {
+  display: block;
+  margin: 1rem auto;
+}
+
+input {
+  width: 100%;
+  max-width: 20rem;
+  font-size: 1.5rem;
+  padding: 0.5rem;
+  background-color: #222;
+  border: none;
+  color: #0f0;
+}
+
+button {
+  display: block;
+  margin: 1rem auto;
+  padding: 0.5rem 1rem;
+  font-size: 1.5rem;
+  background-color: #0f0;
+  color: #000;
+  border: none;
+  cursor: pointer;
+}
+
+p {
+  text-align: center;
+  font-size: 2rem;
+  margin-top: 2rem;
+  padding: 1rem;
+  background-color: #222;
+  border-radius: 0.5rem;
+  word-wrap: break-word;
+}
