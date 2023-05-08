@@ -44,3 +44,8 @@ p {
   border-radius: 0.5rem;
   word-wrap: break-word;
 }
+
+footer p {
+  text-align: center;
+  color:#5a5a5a;
+}
